@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on building a brand new product within an IoT company
+- 🌱 I’m currently learning about carbon removal technologies (direct air capture)
 
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
