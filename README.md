@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on building a brand new product within an IoT company
+- 🔭 I’m currently working on building a brand new software product within an IoT company &
 - 🌱 I’m currently learning about carbon removal technologies (direct air capture)
 
 <!--
