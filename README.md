@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on building a brand new software product within an IoT company &
-- 🌱 I’m currently learning about carbon removal technologies (direct air capture)
-
+- 🔭 I’m currently building a B2C mobile application within an IoT company &
+- 👾 I’m currently learning about NFTs & dApp development
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
