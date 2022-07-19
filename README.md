@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently building a B2C mobile application within an IoT company &
-- 👾 I’m currently learning about NFTs & dApp development
+- 🔭 I’m currently building a carbon marketplace
+- 📫 How to reach me: mail@ruzgar.io
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
