@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently building a carbon marketplace
-- 📫 How to reach me: mail@ruzgar.io
+- 📫 How to reach me: ruzgar@easycarbon.io
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
