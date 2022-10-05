@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently building a carbon marketplace
-- 📫 How to reach me: ruzgar@easycarbon.io
+![EasyCarbon Demo](https://i.ibb.co/jwcRTXG/easycarbondemo.gif)
+- ✳️ I work on EasyCarbon, a carbon asset marketplace
+- 🌱 EasyCarbon is creating the blueprint for tokenizing nature-based carbon credits
+- 📫 Feel free to reach out to me to learn more about what we do: ruzgar@easycarbon.io
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
