@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![EasyCarbon Demo](https://i.ibb.co/jwcRTXG/easycarbondemo.gif)
 - ✳️ I work on EasyCarbon, a carbon asset marketplace
-- 🌱 EasyCarbon is creating the blueprint for tokenizing nature-based carbon credits
+- 🌾 EasyCarbon is creating the blueprint for tokenizing nature-based carbon credits
 - 🔎 To learn more about what we do, feel free to visit [easycarbon.io!](https://easycarbon.io)
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
