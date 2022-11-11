@@ -1,5 +1,5 @@
 ### Hi there 👋
-![EasyCarbon Demo](https://i.ibb.co/jwcRTXG/easycarbondemo.gif)
+![EasyCarbon.io](https://i.ibb.co/QdhfjSY/ss.png)
 - ✳️ I work on EasyCarbon, a carbon asset marketplace
 - 🌾 EasyCarbon is creating the blueprint for tokenizing nature-based carbon credits
 - 🔎 To learn more about what we do, feel free to visit [easycarbon.io!](https://easycarbon.io)
