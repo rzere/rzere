@@ -1,6 +1,6 @@
-### 👋
-![Hi there](https://images.unsplash.com/photo-1710676827643-67150c0c0026?q=80&w=2928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+[![LeadShark](https://i.ibb.co/pRbw5BX/Screenshot-2024-04-26-at-16-41-43.png)](https://www.leadshark.io/)
 
+### [Sign up for Beta!](https://449zjopvufc.typeform.com/to/AL3YZDYh)
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
