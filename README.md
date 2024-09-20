@@ -1,6 +1,6 @@
-[![LeadShark](https://i.ibb.co/pRbw5BX/Screenshot-2024-04-26-at-16-41-43.png)](https://www.leadshark.io/)
+[![LeadShark](https://i.ibb.co/D13GppL/1.png)](https://www.leadshark.io/)
 
-### [Sign up for Beta!](https://449zjopvufc.typeform.com/to/AL3YZDYh)
+### [Sign-up today!](https://apex.leadshark.io/auth/register)
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
