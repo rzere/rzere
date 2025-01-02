@@ -1,8 +1,4 @@
-[![Peerlist](https://github-readme-badge.peerlist.io/api/ruzgar?style=flat-square)](https://peerlist.io/ruzgar)
-
 [![LeadShark](https://i.ibb.co/D13GppL/1.png)](https://www.leadshark.io/)
-
-### [Sign-up today!](https://apex.leadshark.io/auth/register)
 <!--
 **rzere/rzere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
